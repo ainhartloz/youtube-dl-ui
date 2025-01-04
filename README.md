@@ -10,3 +10,13 @@ Download the youtube-di repository. You may find the repo here: https://github.c
 Create a folder named "youtube-dl-ui" and add the files into the folder.
 
 Run the bat script to start the UI
+
+FAQ:
+
+Q: The UI won't run.
+A: This requires Python to run, you may download it here (please choose the latest stable version): https://www.python.org/downloads/
+
+Q: The files are downloaded into two files separately as audio and video.
+A: You need ffmpeg to convert both of them into the video as youtube API has them separate.
+
+Please refer to this link for ffmpeg installation: https://phoenixnap.com/kb/ffmpeg-windows
