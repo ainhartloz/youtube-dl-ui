@@ -7,4 +7,4 @@ How to use:
 
 Add this whole folder into the youtube-di repository. You may find the repo here: https://github.com/ytdl-org/youtube-dl
 
-The exe file is blocked by Windows Defender which is falsely flagged. You may need to turn off Realtime Protection in order to use this.
+Run the bat script to start the UI
