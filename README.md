@@ -5,7 +5,7 @@ This is made so users can use this script without using the command line. It con
 
 How to use:
 
-Download the youtube-di repository. You may find the repo here: https://github.com/ytdl-org/youtube-dl
+Download the youtube-dl repository. You may find the repo here: https://github.com/ytdl-org/youtube-dl
 
 Create a folder named "youtube-dl-ui" and add the files into the folder.
 
